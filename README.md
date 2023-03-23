@@ -1,2 +1,2 @@
-# my-first-repository
-My first repostitoy in GitHub is Awesome :)
+# Mi primer README
+My first repostitoy in GitHub is Awesome WHEN YOU study in FREECODECAMP
